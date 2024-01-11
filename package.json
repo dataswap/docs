@@ -8,6 +8,10 @@
     "docs:build": "vuepress build docs",
     "commit": "git-cz",
     "release": "npm run build; git branch --show-current | grep -q '^main$' && release-it",
+    "contrib:init": "all-contributors init",
+    "contrib:add": "all-contributors add",
+    "contrib:check": "all-contributors check",
+    "contrib:gen": "all-contributors generate",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
