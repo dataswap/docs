@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Welcome to @dataswapcore/docs 👋</h1>
 <p>
   <a href="https://github.com/dataswap/docs#readme" target="_blank">
@@ -57,3 +58,12 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2023 [dataswap](https://github.com/dataswap).<br />
 This project is [MIT and APACHE ](https://github.com/dataswap/docs/blob/master/LICENSE) licensed.
+=======
+# Intrduction
+
+{% hint style="info" %}
+**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% endhint %}
+
+##
+>>>>>>> 9536703 (GITBOOK-9: No subject)
